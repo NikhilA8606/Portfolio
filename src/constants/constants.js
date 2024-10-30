@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'Venue Now',
+    description: "Developed a College Event Hall Booking System with React.js, Node.js, and MongoDB, featuring hall booking, user authentication, and CRUD operations. Deployed on Vercel, the system receives ongoing updates based on user feedback.",
+      image: '/images/venunow.png',
+      tags: ['Mongo', 'React', 'Node'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 0,
+  },
+  {
+    title: 'Ashwa Score Board',
+    description:"Built a scoreboard for our college sports day, Ashwa, using React.js for the frontend, MongoDB for the database, and Node.js for the backend under Prodecc CEC. This project efficiently tracks and displays sports event scores.",
+    image: '/images/aswa.png',
+    tags: ['React', 'Nodejs'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 1,
+  },
+  {
+    title: 'Space Invader Game',
+    description: "Developed a Space Invaders game using Pygame in Python, enhancing my skills in Python concepts, graphics, and user interactions.",
+      image: '/images/space.jpg',
+      tags: ['Python', 'Pygame'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 2,
+  },
+  {
+    title: 'Revenue insights in hospitality domain',
+    description: "Atliq Grands is experiencing declining market share and revenue. To address this, the managing director proposes integrating Business and Data Intelligence by collaborating with a third-party provider for insights via a dashboard.",
+    image: '/images/revenue.png',
+    tags: ['PoweBi', 'Excel'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+  {
+    title: 'Stock Market Data Analysis',
+    description: "Conducted stock market data analysis with Python and machine learning to identify trends and used LSTM models for future price predictions, enhancing my skills in time series analysis.",
+    image: '/images/stock.jpg!sw800',
+    tags: ['Python'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2022, text: 'Started my journey', },
+  { year: 2023, text: 'Learned Frontend Web development', },
+  { year: 2023, text: 'Frontend Web developer @PRODDEC CEC', },
+  { year: 2023, text: 'Event Co-ordinator @IEEE SIGHT', },
+  { year: 2024, text: 'Data Analyst Intern', },
+];
