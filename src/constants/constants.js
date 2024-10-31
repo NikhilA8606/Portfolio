@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/venunow.png',
       tags: ['Mongo', 'React', 'Node'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/NikhilA8606/VenueNow-Miniproject',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/aswa.png',
     tags: ['React', 'Nodejs'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/NikhilA8606/Ashwa-Scoreboard',
     id: 1,
   },
   {
@@ -23,16 +23,16 @@ export const projects = [
       image: '/images/space.jpg',
       tags: ['Python', 'Pygame'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/NikhilA8606/Space-Invader-Game',
     id: 2,
   },
   {
     title: 'Revenue insights in hospitality domain',
-    description: "Atliq Grands is experiencing declining market share and revenue. To address this, the managing director proposes integrating Business and Data Intelligence by collaborating with a third-party provider for insights via a dashboard.",
+    description: "Atliq Grands faces declining market share and revenue; to counter this, the managing director suggests using Business and Data Intelligence through a third-party dashboard for insights.",
     image: '/images/revenue.png',
     tags: ['PoweBi', 'Excel'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/NikhilA8606/Revenue-insights-in-hospitality-domain',
     id: 3,
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     image: '/images/stock.jpg!sw800',
     tags: ['Python'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/NikhilA8606/Stock-Market-Data-Analysis',
     id: 3,
   },
 ];
