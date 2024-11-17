@@ -21,7 +21,7 @@ const Hero = (props) => (
           reflecting my journey in tech and continuous growth as a developer."
         </SectionText>
         <a
-          href="https://drive.google.com/file/d/15ko3Zk3FTJ5_-Yijyo3dQhhPshryLYRE/view?usp=sharing"
+          href="https://drive.google.com/file/d/1TJlAOeqDXXD_RYYRFb_CO4X3UqTclAjG/view?usp=sharing"
           target="_blank"
           rel="noreferrer"
         >
